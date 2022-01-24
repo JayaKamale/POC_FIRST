@@ -1,0 +1,17 @@
+Question 5 :
+Find the output and write explanation?
+
+class Main {
+public static void main(String[] args) {
+int t;
+System.out.println("Value of variable t : "+t);
+}
+}
+
+Output :
+
+Error
+
+Explanation:
+Variable t is not initialized.
+First we have to set or initialize some value for t then it will executed.
